@@ -1,0 +1,126 @@
+/*
+ Copyright 2023 Thomas
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ */
+
+.Red {
+    background-color: red;
+    height: 50px;
+    margin: 5px;
+}
+
+.Yellow {
+    background-color: yellow;
+    height: 150px;
+    margin: 5px;
+}
+
+.Global {
+    display: flex;
+    background-color: white;
+    height: 500px;
+    width: 100%;
+    margin: 5px;
+}
+
+#Left {
+    display: flex;
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+    margin: 5px;
+}
+
+.RightGlobal {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 100%;
+    margin: 5px;
+    flex-direction: column;
+}
+
+.RightHigh {
+    display: flex;
+    background-color: green;
+    height: 250px;
+    width: 100%;
+    margin: 5px;
+}
+
+.RightDownLeft {
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    width: 100%;
+    margin: 5px;
+    display: flex;
+}
+
+.RightDownRight {
+    display: flex;
+    background-color: orange;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+}
+
+#VTF {
+    display: flex;
+    background-color: orange;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+}
+
+#Barre1 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    width: 100%;
+    margin: 5px;
+    flex-direction: column;
+}
+
+#Salmon {
+    display: flex;
+    background-color: salmon;
+    height: 125px;
+    width: 100%;
+    margin: 5px;
+
+}
+
+#BizBiz {
+    display: flex;
+    background-color: white;
+    height: 125px;
+    width: 100%;
+    margin: 5px;
+}
+
+#FIN {
+    display: flex;
+    background-color: darkkhaki;
+    height: 125px;
+    width: 50%;
+    margin: 5px;
+}
+
+#FIN2 {
+    display: flex;
+    background-color: black;
+    height: 125px;
+    width: 50%;
+    margin: 5px;
+}
